@@ -518,7 +518,19 @@ enum PlayerFlags : uint64_t {
 
 #define CHANNEL_GUILD 0x00
 #define CHANNEL_PARTY 0x01
+
+#define CHANNEL_TUTOR 0x02
+#define CHANNEL_WORLDCHAT 0x03
+#define CHANNEL_ENGLISHCHAT 0x04
+#define CHANNEL_ADVERTISING 0x05
+#define CHANNEL_ADVERTISINGROOKGAARD 0x06
+#define CHANNEL_HELP 0x07
+#define CHANNEL_GAMEMASTER 0x08
+#define CHANNEL_CAST 0x09
+
 #define CHANNEL_PRIVATE 0xFFFF
+
+const std::string LIVE_CAST_CHAT_NAME = "Live Cast Chat";
 
 //Reserved player storage key ranges
 //[10000000 - 20000000]

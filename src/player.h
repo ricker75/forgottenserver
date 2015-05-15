@@ -1312,6 +1312,7 @@ class Player final : public Creature, public Cylinder
 
 		bool secureMode;
 		bool inMarket;
+		bool wasMounted;
 		bool ghostMode;
 		bool pzLocked;
 		bool isConnecting;

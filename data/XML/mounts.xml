@@ -77,4 +77,7 @@
 	<mount id="75" clientid="726" name="Flitterkatzen" speed="10" premium="yes" />
 	<mount id="76" clientid="727" name="Venompaw" speed="10" premium="yes" />
 	<mount id="77" clientid="728" name="Batcat" speed="10" premium="yes" />
+	<mount id="78" clientid="734" name="Sea Devil" speed="10" premium="yes" />
+	<mount id="79" clientid="735" name="Coralripper" speed="10" premium="yes" />
+	<mount id="80" clientid="736" name="Plumfish" speed="10" premium="yes" />
 </mounts>

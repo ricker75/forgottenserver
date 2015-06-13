@@ -157,7 +157,6 @@ void Connection::onStopOperation()
 	}
 
 	delete m_socket;
-	m_socket = nullptr;
 
 	m_connectionLock.unlock();
 
